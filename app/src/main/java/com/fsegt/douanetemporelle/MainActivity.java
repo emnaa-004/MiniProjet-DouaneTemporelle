@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // norbtu les elements
+        // norbtu les elementsss
         etNom = findViewById(R.id.et_nom_sima);
         etNaissance = findViewById(R.id.et_naissance_sima);
         etDest = findViewById(R.id.et_dest_sima);
