@@ -16,7 +16,7 @@ public class ResultActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_result);
 
-        // norbet les elements bil interface
+        // norbet les elements bil interfaceeee
         LinearLayout layout = findViewById(R.id.layout_result_sima);
         TextView tvMessage = findViewById(R.id.tv_message_sima);
         Button btnNouveau = findViewById(R.id.btn_nouveau_sima);
